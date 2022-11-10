@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" output="bin" path="src"/>
 	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
-	<classpathentry kind="lib" path="/Users/sarahernandez/Desktop/softLabs/SD/eAuctions/4_eAuctions_Server_v1/lib/commons-codec-1.15.jar"/>
-	<classpathentry kind="con" path="/Users/sarahernandez/Desktop/softLabs/SD/eAuctions/4_eAuctions_Server_v1/bin"/>
+	<classpathentry kind="lib" path="/Users/sarahernandez/Desktop/softLabs/SD/Strava/Server_v1/lib/commons-codec-1.15.jar"/>
+	<classpathentry kind="con" path="/Users/sarahernandez/Desktop/softLabs/SD/Strava/Server_v1/bin"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
